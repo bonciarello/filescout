@@ -96,7 +96,7 @@
     <p>
       FileScout — Tutti i diritti riservati &copy; {new Date().getFullYear()}
       &middot;
-      <a href="https://cristianporco.it/app/filescout/">cristianporco.it</a>
+      cristianporco.it
     </p>
   </footer>
 </div>
